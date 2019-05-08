@@ -1,4 +1,4 @@
-#Ten principles for growth as an Engineer
+# Ten principles for growth as an Engineer
 
 These ten principles were recapped by [Dan Heller](https://www.linkedin.com/in/hellerdaniel/) on medium.
 
